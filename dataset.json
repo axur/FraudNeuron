@@ -501,25 +501,25 @@
             "id": "TQ9110",
             "title": "worker_recruitment",
             "description": "Sourcing and onboarding new accomplices to perform tasks such as spamming, laundering, or technical exploitation",
-            "items": []
-          },
-          {
-            "id": "P9111",
-            "title": "hacking_forum_ads",
-            "description": "Posting advertisements or partnership offers on underground forums and marketplaces to attract prospective affiliates",
-            "items": []
+            "items": [
+              {
+                "id": "P9111",
+                "title": "hacking_forum_ads",
+                "description": "Posting advertisements or partnership offers on underground forums and marketplaces to attract prospective affiliates"
+              }
+            ]
           },
           {
             "id": "TQ9120",
             "title": "profit_incentives",
             "description": "Structuring payment schemes to retain affiliates and maximize campaign reach",
-            "items": []
-          },
-          {
-            "id": "P9121",
-            "title": "tiered_commission_payouts",
-            "description": "Offering escalating commission rates or bonuses based on the affiliate’s performance (e.g., number of installs or successful fraud transactions)",
-            "items": []
+            "items": [
+              {
+                "id": "P9121",
+                "title": "tiered_commission_payouts",
+                "description": "Offering escalating commission rates or bonuses based on the affiliate’s performance (e.g., number of installs or successful fraud transactions)"
+              }
+            ]
           }
         ]
       }
