@@ -498,7 +498,7 @@
         "description": "Recruiting, motivating, and controlling an affiliate workforce to scale and operationalize fraudulent campaign",
         "items": [
           {
-            "id": "TQ9110",
+            "id": "TQ9100",
             "title": "worker_recruitment",
             "description": "Sourcing and onboarding new accomplices to perform tasks such as spamming, laundering, or technical exploitation",
             "items": [
@@ -510,12 +510,12 @@
             ]
           },
           {
-            "id": "TQ9120",
+            "id": "TQ9200",
             "title": "profit_incentives",
             "description": "Structuring payment schemes to retain affiliates and maximize campaign reach",
             "items": [
               {
-                "id": "P9121",
+                "id": "P9211",
                 "title": "tiered_commission_payouts",
                 "description": "Offering escalating commission rates or bonuses based on the affiliate’s performance (e.g., number of installs or successful fraud transactions)"
               }
